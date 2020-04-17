@@ -11,8 +11,9 @@ appearing in the IPC'18 are no exactly these ones, but simpler instances.
 * The `pipesworld-tankage-nosplit` folder contains the *non-split* version of the 
 `pipesworld-tankage`, as it features e.g. in the downward-benchmark repos.
 
-* The `large-instances-aaai19` folder contains larger instances of standard benchmarks
-source from 
+* The `gnad-et-al-aaai19-large-instances` folder contains larger instances of standard benchmarks,
+sourced from 
+
 
     Gnad, D., Torralba, A., Domínguez, M., Areces, C., & Bustos, F. (2019).
     Learning how to ground a plan–partial grounding in classical planning.
