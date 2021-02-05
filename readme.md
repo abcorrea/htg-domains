@@ -20,3 +20,9 @@ sourced from
     In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, pp. 7602-7609).
 
 * The `logistics` folders just contains some handmade instances for testing purposes.
+
+* The `childsnack-contents` folder contains a modification of the original Childsnack that adds contents to sandwiches (instead of just tracking the bread type). 
+
+* The `visitall-multidimensional` folder contains an extension of the original visitall domain that interchanges the 2D-grid with a n-dimensional hypercube.
+
+* The `*-large-simple` folders contain larger instances of standard benchmarks with a low goal amount.
