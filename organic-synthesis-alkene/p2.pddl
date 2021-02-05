@@ -1,3 +1,11 @@
+; The variants of the Organic Synthesis domain were created by
+; Dr. Russell Viirre, Hadi Qovaizi, and Prof. Mikhail Soutchanski.
+;
+; This work is licensed under a Creative Commons Attribution,
+; NonCommercial, ShareAlike 3.0 Unported License.
+;
+; For further information, please access the following web page:
+; https://www.cs.ryerson.ca/~mes/publications/
 (define (problem Alkene_P02) (:domain Chemical)
 (:objects
 c017 - carbon
