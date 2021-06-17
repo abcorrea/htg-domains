@@ -22,8 +22,10 @@ FLAT_DOMAINS = ['genome-edit-distance',
 
 # Domains that are divided based on structure but have same domain file. Should
 # be flattened into a single domain.
-NOT_FLAT_SAME_DOMAIN = ['logistics-large-simple',
-                        'rovers-large-simple']
+NOT_FLAT_SAME_DOMAIN = [
+    'blocksworld-large-simple',
+    'logistics-large-simple',
+    'rovers-large-simple']
 
 # Domains that are divided based on structure and have different domain
 # files. Should be flattened into different domains.
