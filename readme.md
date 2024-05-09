@@ -6,7 +6,7 @@
 seem to correspond to the easiest instances of the `-split` version here.
 
 * The `organic-synthesis` benchmarks are different versions of the same problem. The instances
-appearing in the IPC'18 are no exactly these ones, but simpler instances.
+appearing in the IPC'18 are not exactly these ones, but simpler instances.
 
 * The `pipesworld-tankage-nosplit` folder contains the *non-split* version of the
 `pipesworld-tankage`, as it features e.g. in the downward-benchmark repos.
@@ -25,6 +25,8 @@ sourced from
 * The `visitall-multidimensional` folder contains an extension of the original visitall domain that interchanges the 2D-grid with a n-dimensional hypercube.
 
 * The `*-large-simple` folders contain larger instances of standard benchmarks with a low goal amount.
+
+* The `labyrinth` folder contains the SAT and OPT set of the labyrinth domain from the [IPC2023 dataset](https://github.com/ipc2023-classical/ipc2023-dataset/tree/main). The domain has been altered to include no negative preconditions
 
 ## Scripts
 
